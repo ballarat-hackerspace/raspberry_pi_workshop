@@ -1,0 +1,7 @@
+sudo apt-get install build-essential python3-dev
+
+git clone https://github.com/JoBergs/Adafruit_Python_DHT.git
+
+cd Adafruit_Python_DHT
+
+sudo python3 setup.py install
